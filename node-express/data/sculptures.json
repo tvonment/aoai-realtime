@@ -1,0 +1,206 @@
+{
+    "sculptures": [
+        {
+            "id": "sculpture-1",
+            "name": "David",
+            "artist": "artist-1",
+            "year": "1504",
+            "material": "material-1",
+            "period": "period-1",
+            "location": "location-1",
+            "description": "A masterpiece of Renaissance sculpture, a 5.17-meter marble statue representing the biblical hero David.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Michelangelo%27s_David_-_right_view_2.jpg",
+            "visualDescription": "A large white marble statue of a nude male figure standing contrapposto. The figure depicts a young, muscular David with detailed anatomy, curly hair, and an intense expression. His right hand is down by his side while his left arm is bent at the elbow, resting against his shoulder with a sling draped over it."
+        },
+        {
+            "id": "sculpture-2",
+            "name": "The Thinker",
+            "artist": "artist-2",
+            "year": "1904",
+            "material": "material-2",
+            "period": "period-3",
+            "location": "location-2",
+            "description": "A bronze sculpture depicting a nude male figure in deep contemplation.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Thinker%2C_Rodin.jpg",
+            "visualDescription": "A dark bronze sculpture showing a muscular nude male figure sitting on a stone, leaning forward with his elbow on his knee and chin resting on the back of his hand. The figure appears deep in thought, with a furrowed brow and tense posture suggesting intense concentration or inner struggle."
+        },
+        {
+            "id": "sculpture-3",
+            "name": "Ecstasy of Saint Teresa",
+            "artist": "artist-3",
+            "year": "1652",
+            "material": "material-1",
+            "period": "period-2",
+            "location": "location-3",
+            "description": "A sculptural group in white marble, considered a masterpiece of Baroque art.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ecstasy_of_Saint_Teresa_September_2015-2a.jpg",
+            "visualDescription": "A dramatic white marble sculpture set within an architectural frame. It depicts Saint Teresa lying on clouds with her head tilted back in ecstasy, while an angel stands above her, holding a golden arrow. The flowing drapery creates an impression of movement, and light from a concealed window illuminates the sculpture, enhancing its theatrical effect."
+        },
+        {
+            "id": "sculpture-4",
+            "name": "Pieta",
+            "artist": "artist-1",
+            "year": "1499",
+            "material": "material-1",
+            "period": "period-1",
+            "location": "location-4",
+            "description": "A work of Renaissance sculpture depicting the body of Jesus on the lap of his mother Mary after the Crucifixion.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Michelangelo%27s_Pieta_5450_cropncleaned_edit.jpg",
+            "visualDescription": "A polished white marble sculpture showing a youthful Mary seated while holding the lifeless body of Jesus across her lap. Mary's face expresses serene sorrow, and her left hand is outstretched in a gesture of presentation. Jesus's body is depicted with anatomical precision, appearing peaceful despite the wounds of crucifixion. The flowing drapery of Mary's robes contrasts with the stillness of Christ's body."
+        },
+        {
+            "id": "sculpture-5",
+            "name": "Venus de Milo",
+            "artist": "artist-4",
+            "year": "Between 130 and 100 BCE",
+            "material": "material-1",
+            "period": "period-4",
+            "location": "location-5",
+            "description": "An ancient Greek sculpture that depicts Aphrodite (Venus), the Greek goddess of love and beauty.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Venus_de_Milo_Louvre_Ma399_n4.jpg",
+            "visualDescription": "A slightly larger-than-life-sized marble statue of a female figure missing both arms. The figure has idealized proportions with a small head, high breasts, and hips draped in cloth that clings to the legs. The statue has a serene facial expression with classical Greek features. The surface shows the weathering of age, with a creamy-white patina characteristic of ancient marble."
+        },
+        {
+            "id": "sculpture-6",
+            "name": "Burghers of Calais",
+            "artist": "artist-2",
+            "year": "1889",
+            "material": "material-2",
+            "period": "period-3",
+            "location": "location-2",
+            "description": "A monument commemorating the surrender of Calais during the Hundred Years' War.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Burghers_of_Calais_SF.JPG",
+            "visualDescription": "A bronze sculptural group depicting six male figures arranged in a loose circle. Each figure wears loose-fitting robes and shows individualized expressions of anguish, resignation, or determination. The figures vary in posture - some stand tall while others appear hunched or burdened. The bronze surface has a dark patina with subtle green oxidation highlighting the textured, roughly-modeled surfaces that capture the emotional intensity of the scene."
+        }
+    ],
+    "artists": [
+        {
+            "id": "artist-1",
+            "name": "Michelangelo",
+            "birthYear": "1475",
+            "deathYear": "1564",
+            "nationality": "Italian",
+            "bio": "One of the greatest artists of the High Renaissance known for his sculptures, paintings, and architectural works."
+        },
+        {
+            "id": "artist-2",
+            "name": "Auguste Rodin",
+            "birthYear": "1840",
+            "deathYear": "1917",
+            "nationality": "French",
+            "bio": "Known for his expressive sculptures in bronze and marble, considered the founder of modern sculpture."
+        },
+        {
+            "id": "artist-3",
+            "name": "Gian Lorenzo Bernini",
+            "birthYear": "1598",
+            "deathYear": "1680",
+            "nationality": "Italian",
+            "bio": "Leading sculptor of the Italian Baroque period who created the Baroque style of sculpture."
+        },
+        {
+            "id": "artist-4",
+            "name": "Alexandros of Antioch",
+            "birthYear": "Unknown",
+            "deathYear": "Unknown",
+            "nationality": "Greek",
+            "bio": "Ancient Greek sculptor best known as the creator of the Venus de Milo."
+        },
+        {
+            "id": "artist-5",
+            "name": "Donatello",
+            "birthYear": "1386",
+            "deathYear": "1466",
+            "nationality": "Italian",
+            "bio": "Early Renaissance Italian sculptor whose works influenced many artists who followed."
+        }
+    ],
+    "materials": [
+        {
+            "id": "material-1",
+            "name": "Marble",
+            "properties": "Hard, crystalline metamorphic form of limestone",
+            "uses": "Sculpture, architecture, decorative arts"
+        },
+        {
+            "id": "material-2",
+            "name": "Bronze",
+            "properties": "Alloy primarily of copper with tin",
+            "uses": "Sculpture, musical instruments, medals"
+        },
+        {
+            "id": "material-3",
+            "name": "Terracotta",
+            "properties": "Unglazed, porous, brownish-red clay-based ceramic",
+            "uses": "Sculpture, pottery, architectural elements"
+        },
+        {
+            "id": "material-4",
+            "name": "Wood",
+            "properties": "Natural, organic material from trees",
+            "uses": "Sculpture, furniture, construction"
+        }
+    ],
+    "periods": [
+        {
+            "id": "period-1",
+            "name": "Renaissance",
+            "startYear": "1400",
+            "endYear": "1600",
+            "characteristics": "Revival of classical learning, art and architecture"
+        },
+        {
+            "id": "period-2",
+            "name": "Baroque",
+            "startYear": "1600",
+            "endYear": "1750",
+            "characteristics": "Dramatic, exuberant style in art and architecture"
+        },
+        {
+            "id": "period-3",
+            "name": "Modern",
+            "startYear": "1860",
+            "endYear": "1970",
+            "characteristics": "Breaking with traditional forms, experimentation"
+        },
+        {
+            "id": "period-4",
+            "name": "Hellenistic",
+            "startYear": "323 BCE",
+            "endYear": "31 BCE",
+            "characteristics": "Dramatic movement, emotional intensity, and sensuality in ancient Greek art"
+        }
+    ],
+    "locations": [
+        {
+            "id": "location-1",
+            "name": "Galleria dell'Accademia",
+            "city": "Florence",
+            "country": "Italy"
+        },
+        {
+            "id": "location-2",
+            "name": "Musée Rodin",
+            "city": "Paris",
+            "country": "France"
+        },
+        {
+            "id": "location-3",
+            "name": "Galleria Borghese",
+            "city": "Rome",
+            "country": "Italy"
+        },
+        {
+            "id": "location-4",
+            "name": "St. Peter's Basilica",
+            "city": "Vatican City",
+            "country": "Vatican City"
+        },
+        {
+            "id": "location-5",
+            "name": "Louvre Museum",
+            "city": "Paris",
+            "country": "France"
+        }
+    ]
+}
